@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1628097571 source:c:\c program\county library management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+
